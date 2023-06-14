@@ -1,0 +1,15 @@
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\bin\Debug\net6.0\5 - PowerOfSetsLearning.exe
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\bin\Debug\net6.0\5 - PowerOfSetsLearning.deps.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\bin\Debug\net6.0\5 - PowerOfSetsLearning.runtimeconfig.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\bin\Debug\net6.0\5 - PowerOfSetsLearning.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\bin\Debug\net6.0\5 - PowerOfSetsLearning.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\obj\Debug\net6.0\5 - PowerOfSetsLearning.csproj.AssemblyReference.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\obj\Debug\net6.0\5 - PowerOfSetsLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\obj\Debug\net6.0\5 - PowerOfSetsLearning.AssemblyInfoInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\obj\Debug\net6.0\5 - PowerOfSetsLearning.AssemblyInfo.cs
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\obj\Debug\net6.0\5 - PowerOfSetsLearning.csproj.CoreCompileInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\obj\Debug\net6.0\5 - PowerOfSetsLearning.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\obj\Debug\net6.0\refint\5 - PowerOfSetsLearning.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\obj\Debug\net6.0\5 - PowerOfSetsLearning.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\obj\Debug\net6.0\5 - PowerOfSetsLearning.genruntimeconfig.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\5 - PowerOfSetsLearning\obj\Debug\net6.0\ref\5 - PowerOfSetsLearning.dll

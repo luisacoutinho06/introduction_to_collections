@@ -1,0 +1,15 @@
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\bin\Debug\net6.0\6 - SetInModelLearning.exe
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\bin\Debug\net6.0\6 - SetInModelLearning.deps.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\bin\Debug\net6.0\6 - SetInModelLearning.runtimeconfig.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\bin\Debug\net6.0\6 - SetInModelLearning.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\bin\Debug\net6.0\6 - SetInModelLearning.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\obj\Debug\net6.0\6 - SetInModelLearning.csproj.AssemblyReference.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\obj\Debug\net6.0\6 - SetInModelLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\obj\Debug\net6.0\6 - SetInModelLearning.AssemblyInfoInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\obj\Debug\net6.0\6 - SetInModelLearning.AssemblyInfo.cs
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\obj\Debug\net6.0\6 - SetInModelLearning.csproj.CoreCompileInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\obj\Debug\net6.0\6 - SetInModelLearning.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\obj\Debug\net6.0\refint\6 - SetInModelLearning.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\obj\Debug\net6.0\6 - SetInModelLearning.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\obj\Debug\net6.0\6 - SetInModelLearning.genruntimeconfig.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\6 - SetInModelLearning\obj\Debug\net6.0\ref\6 - SetInModelLearning.dll

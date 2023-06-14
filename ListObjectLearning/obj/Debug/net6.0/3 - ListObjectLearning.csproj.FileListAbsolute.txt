@@ -1,0 +1,15 @@
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\bin\Debug\net6.0\3 - ListObjectLearning.exe
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\bin\Debug\net6.0\3 - ListObjectLearning.deps.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\bin\Debug\net6.0\3 - ListObjectLearning.runtimeconfig.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\bin\Debug\net6.0\3 - ListObjectLearning.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\bin\Debug\net6.0\3 - ListObjectLearning.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\obj\Debug\net6.0\3 - ListObjectLearning.csproj.AssemblyReference.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\obj\Debug\net6.0\3 - ListObjectLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\obj\Debug\net6.0\3 - ListObjectLearning.AssemblyInfoInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\obj\Debug\net6.0\3 - ListObjectLearning.AssemblyInfo.cs
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\obj\Debug\net6.0\3 - ListObjectLearning.csproj.CoreCompileInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\obj\Debug\net6.0\3 - ListObjectLearning.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\obj\Debug\net6.0\refint\3 - ListObjectLearning.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\obj\Debug\net6.0\3 - ListObjectLearning.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\obj\Debug\net6.0\3 - ListObjectLearning.genruntimeconfig.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\ListObjectLearning\obj\Debug\net6.0\ref\3 - ListObjectLearning.dll
