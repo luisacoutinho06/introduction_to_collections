@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\csharpcollections_alura\\6 - SetInModelLearning\\6 - SetInModelLearning.csproj",
+      "projectUniqueName": "C:\\Users\\luisa.coutinho\\Source\\Repos\\luisacoutinho06\\csharpcollections_alura\\C#_COLLECTIONS PARTE 1\\6 - SetInModelLearning\\6 - SetInModelLearning.csproj",
       "projectName": "6 - SetInModelLearning",
-      "projectPath": "P:\\csharpcollections_alura\\6 - SetInModelLearning\\6 - SetInModelLearning.csproj",
+      "projectPath": "C:\\Users\\luisa.coutinho\\Source\\Repos\\luisacoutinho06\\csharpcollections_alura\\C#_COLLECTIONS PARTE 1\\6 - SetInModelLearning\\6 - SetInModelLearning.csproj",
       "packagesPath": "C:\\Users\\luisa.coutinho\\.nuget\\packages\\",
-      "outputPath": "P:\\csharpcollections_alura\\6 - SetInModelLearning\\obj\\",
+      "outputPath": "C:\\Users\\luisa.coutinho\\Source\\Repos\\luisacoutinho06\\csharpcollections_alura\\C#_COLLECTIONS PARTE 1\\6 - SetInModelLearning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisa.coutinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

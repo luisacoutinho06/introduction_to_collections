@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8 - StackLearning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1becf9c2c134e865694c0292dbbfaa1f4e393ab1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a9068a4c19c103e3a4c0df44e730c4b68d1a88a")]
 [assembly: System.Reflection.AssemblyProductAttribute("8 - StackLearning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8 - StackLearning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

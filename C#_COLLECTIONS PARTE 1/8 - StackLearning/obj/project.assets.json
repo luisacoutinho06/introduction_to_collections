@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\csharpcollections_alura\\8 - StackLearning\\8 - StackLearning.csproj",
+      "projectUniqueName": "C:\\Users\\luisa.coutinho\\Source\\Repos\\luisacoutinho06\\csharpcollections_alura\\C#_COLLECTIONS PARTE 1\\8 - StackLearning\\8 - StackLearning.csproj",
       "projectName": "8 - StackLearning",
-      "projectPath": "P:\\csharpcollections_alura\\8 - StackLearning\\8 - StackLearning.csproj",
+      "projectPath": "C:\\Users\\luisa.coutinho\\Source\\Repos\\luisacoutinho06\\csharpcollections_alura\\C#_COLLECTIONS PARTE 1\\8 - StackLearning\\8 - StackLearning.csproj",
       "packagesPath": "C:\\Users\\luisa.coutinho\\.nuget\\packages\\",
-      "outputPath": "P:\\csharpcollections_alura\\8 - StackLearning\\obj\\",
+      "outputPath": "C:\\Users\\luisa.coutinho\\Source\\Repos\\luisacoutinho06\\csharpcollections_alura\\C#_COLLECTIONS PARTE 1\\8 - StackLearning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisa.coutinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
