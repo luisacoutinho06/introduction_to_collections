@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9 - QueueLearning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a9068a4c19c103e3a4c0df44e730c4b68d1a88a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+969526f25a2d53d946d8ebc3b88c518c31508575")]
 [assembly: System.Reflection.AssemblyProductAttribute("9 - QueueLearning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9 - QueueLearning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

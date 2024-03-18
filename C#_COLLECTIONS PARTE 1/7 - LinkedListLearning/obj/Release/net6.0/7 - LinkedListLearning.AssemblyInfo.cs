@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7 - LinkedListLearning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1becf9c2c134e865694c0292dbbfaa1f4e393ab1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+969526f25a2d53d946d8ebc3b88c518c31508575")]
 [assembly: System.Reflection.AssemblyProductAttribute("7 - LinkedListLearning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7 - LinkedListLearning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

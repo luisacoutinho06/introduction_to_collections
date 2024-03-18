@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A2.2 - JaggedArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1becf9c2c134e865694c0292dbbfaa1f4e393ab1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+969526f25a2d53d946d8ebc3b88c518c31508575")]
 [assembly: System.Reflection.AssemblyProductAttribute("A2.2 - JaggedArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A2.2 - JaggedArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
