@@ -1,0 +1,15 @@
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\bin\Debug\net6.0\A1.3 - SortedSet.exe
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\bin\Debug\net6.0\A1.3 - SortedSet.deps.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\bin\Debug\net6.0\A1.3 - SortedSet.runtimeconfig.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\bin\Debug\net6.0\A1.3 - SortedSet.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\bin\Debug\net6.0\A1.3 - SortedSet.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\obj\Debug\net6.0\A1.3 - SortedSet.csproj.AssemblyReference.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\obj\Debug\net6.0\A1.3 - SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\obj\Debug\net6.0\A1.3 - SortedSet.AssemblyInfoInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\obj\Debug\net6.0\A1.3 - SortedSet.AssemblyInfo.cs
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\obj\Debug\net6.0\A1.3 - SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\obj\Debug\net6.0\A1.3 - SortedSet.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\obj\Debug\net6.0\refint\A1.3 - SortedSet.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\obj\Debug\net6.0\A1.3 - SortedSet.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\obj\Debug\net6.0\A1.3 - SortedSet.genruntimeconfig.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1._3_SortedSet\obj\Debug\net6.0\ref\A1.3 - SortedSet.dll

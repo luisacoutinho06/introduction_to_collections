@@ -1,0 +1,15 @@
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\bin\Debug\net6.0\A5.2 - Foreach.exe
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\bin\Debug\net6.0\A5.2 - Foreach.deps.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\bin\Debug\net6.0\A5.2 - Foreach.runtimeconfig.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\bin\Debug\net6.0\A5.2 - Foreach.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\bin\Debug\net6.0\A5.2 - Foreach.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\obj\Debug\net6.0\A5.2 - Foreach.csproj.AssemblyReference.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\obj\Debug\net6.0\A5.2 - Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\obj\Debug\net6.0\A5.2 - Foreach.AssemblyInfoInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\obj\Debug\net6.0\A5.2 - Foreach.AssemblyInfo.cs
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\obj\Debug\net6.0\A5.2 - Foreach.csproj.CoreCompileInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\obj\Debug\net6.0\A5.2 - Foreach.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\obj\Debug\net6.0\refint\A5.2 - Foreach.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\obj\Debug\net6.0\A5.2 - Foreach.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\obj\Debug\net6.0\A5.2 - Foreach.genruntimeconfig.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A5.2 - Foreach\obj\Debug\net6.0\ref\A5.2 - Foreach.dll

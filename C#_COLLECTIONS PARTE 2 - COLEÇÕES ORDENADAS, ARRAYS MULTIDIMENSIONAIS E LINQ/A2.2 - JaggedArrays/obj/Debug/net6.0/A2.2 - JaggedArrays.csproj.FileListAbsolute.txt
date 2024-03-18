@@ -1,0 +1,15 @@
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\bin\Debug\net6.0\A2.2 - JaggedArrays.exe
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\bin\Debug\net6.0\A2.2 - JaggedArrays.deps.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\bin\Debug\net6.0\A2.2 - JaggedArrays.runtimeconfig.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\bin\Debug\net6.0\A2.2 - JaggedArrays.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\bin\Debug\net6.0\A2.2 - JaggedArrays.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\obj\Debug\net6.0\A2.2 - JaggedArrays.csproj.AssemblyReference.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\obj\Debug\net6.0\A2.2 - JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\obj\Debug\net6.0\A2.2 - JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\obj\Debug\net6.0\A2.2 - JaggedArrays.AssemblyInfo.cs
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\obj\Debug\net6.0\A2.2 - JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\obj\Debug\net6.0\A2.2 - JaggedArrays.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\obj\Debug\net6.0\refint\A2.2 - JaggedArrays.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\obj\Debug\net6.0\A2.2 - JaggedArrays.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\obj\Debug\net6.0\A2.2 - JaggedArrays.genruntimeconfig.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A2.2 - JaggedArrays\obj\Debug\net6.0\ref\A2.2 - JaggedArrays.dll
