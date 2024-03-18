@@ -1,5 +1,5 @@
 # Projeto - C# Collections
-### Projeto do curso da Alura - C# Collections parte 1: Listas, arrays, listas ligadas, dicionários e conjuntos! ------ [LINK DO PROJETO]()
+### Projeto do curso da Alura - C# Collections parte 1: Listas, arrays, listas ligadas, dicionários e conjuntos! ------ [LINK DO PROJETO](https://github.com/luisacoutinho06/csharpcollections_alura/tree/9a487b55ee5f979231d556607cecd9d4423bba25/C%23_COLLECTIONS%20PARTE%201)
 Este projeto foi realizado para poder entender melhor as coleções existentes no C# e como utilizá-las. Acompanhei o instrutor Marcelo Oliveira da Alura desenvolvendo esta solução com cada etapa do ensinamento:
 
 - **1º** - **Começando com Arrays:**
@@ -32,7 +32,7 @@ Este projeto foi realizado para poder entender melhor as coleções existentes n
 >  - Verificando elementos numa fila.
 
 
-### Projeto do curso da Alura - C# Collections parte 2: Coleções ordenadas, arrays multidimensionais e LINQ! ------ [LINK DO PROJETO]()
+### Projeto do curso da Alura - C# Collections parte 2: Coleções ordenadas, arrays multidimensionais e LINQ! ------ [LINK DO PROJETO](https://github.com/luisacoutinho06/csharpcollections_alura/tree/9a487b55ee5f979231d556607cecd9d4423bba25/C%23_COLLECTIONS%20PARTE%202)
 Este projeto foi realizado para poder entender melhor as coleções existentes no C# e como utilizá-las. Acompanhei o instrutor Marcelo Oliveira da Alura desenvolvendo esta solução com cada etapa do ensinamento:
 
 1º - Coleções Ordenadas:
