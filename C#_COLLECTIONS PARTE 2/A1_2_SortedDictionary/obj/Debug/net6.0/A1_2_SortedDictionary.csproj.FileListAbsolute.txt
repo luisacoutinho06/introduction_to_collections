@@ -1,0 +1,5 @@
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1_2_SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1_2_SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1_2_SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1_2_SortedDictionary.AssemblyInfo.cs
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1_2_SortedDictionary.csproj.CoreCompileInputs.cache

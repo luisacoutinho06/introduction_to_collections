@@ -1,0 +1,15 @@
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\bin\Debug\net6.0\A1.2 - SortedDictionary.exe
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\bin\Debug\net6.0\A1.2 - SortedDictionary.deps.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\bin\Debug\net6.0\A1.2 - SortedDictionary.runtimeconfig.json
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\bin\Debug\net6.0\A1.2 - SortedDictionary.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\bin\Debug\net6.0\A1.2 - SortedDictionary.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1.2 - SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1.2 - SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1.2 - SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1.2 - SortedDictionary.AssemblyInfo.cs
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1.2 - SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1.2 - SortedDictionary.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\refint\A1.2 - SortedDictionary.dll
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1.2 - SortedDictionary.pdb
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\A1.2 - SortedDictionary.genruntimeconfig.cache
+C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 2\A1_2_SortedDictionary\obj\Debug\net6.0\ref\A1.2 - SortedDictionary.dll
