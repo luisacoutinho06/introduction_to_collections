@@ -35,45 +35,40 @@ Este projeto foi realizado para poder entender melhor as coleções existentes n
 ### Projeto do curso da Alura - C# Collections parte 2: Coleções ordenadas, arrays multidimensionais e LINQ! ------ [LINK DO PROJETO](https://github.com/luisacoutinho06/csharpcollections_alura/tree/9a487b55ee5f979231d556607cecd9d4423bba25/C%23_COLLECTIONS%20PARTE%202)
 Este projeto foi realizado para poder entender melhor as coleções existentes no C# e como utilizá-las. Acompanhei o instrutor Marcelo Oliveira da Alura desenvolvendo esta solução com cada etapa do ensinamento:
 
-1º - Coleções Ordenadas:
-SortedList;
-SortedDictionary;
-SortedList e SortedDictionary;
-SortedSet;
-Consolidando o Conhecimento.
-Este ensinamento está presente na pasta: CSharpCollections e se estende nos arquivos A1._3_SortedSet, A1_2_SortedDictionary.
+- **1º** - **Coleções Ordenadas:**
+>  - SortedList;
+>  - SortedDictionary;
+>  - SortedList e SortedDictionary;
+>  - SortedSet;
+>  - Consolidando o Conhecimento.
 
-2º - Arrays Multidimensionais:
-Array Multidimensional;
-Jagged Arrays;
-Array Denteado;
-Jagged Arrays;
-Consolidando o Conhecimento.
-Este ensinamento está presente na pasta: A2.1 - ArraysMultidimensionais, A2.2 - JaggedArrays.
+- **2º** - **Arrays Multidimensionais:**
+>  - Array Multidimensional;
+>  - Jagged Arrays;
+>  - Array Denteado;
+>  - Jagged Arrays;
+>  - Consolidando o Conhecimento.
 
-3º - Consultando com LINQ:
-Consultando Collections;
-Consultas com LINQ;
-Fonte de dados para uma consulta LINQ;
-Filtrando uma Consulta;
-Ordenando Consulta LINQ;
-Consolidando o Conhecimento.
-Este ensinamento está presente na pasta: A3.1 - ConsultandoCollections.
+- **3º** - **Consultando com LINQ:**
+>  - Consultando Collections;
+>  - Consultas com LINQ;
+>  - Fonte de dados para uma consulta LINQ;
+>  - Filtrando uma Consulta;
+>  - Ordenando Consulta LINQ;
+>  - Consolidando o Conhecimento.
 
-4º - Mais Operadores LINQ:
-Consultando sequências de elementos;
-Operadores de conjuntos LINQ;
-Faixas de valores de uma sequência;
-Faixa contínua de valores de uma sequência;
-Operadores de Conjunto;
-Mão na Massa - LINQ: Outros Operadores;
-Consolidando o Conhecimento.
-Este ensinamento está presente na pasta: A4.1 - OutrosOperadoresLINQ.
+- **4º** - **Mais Operadores LINQ:**
+> - Consultando sequências de elementos;
+> - Operadores de conjuntos LINQ;
+> - Faixas de valores de uma sequência;
+> - Faixa contínua de valores de uma sequência;
+> - Operadores de Conjunto;
+> - Mão na Massa - LINQ: Outros Operadores;
+> - Consolidando o Conhecimento.
 
-5º - Convertendo e Enumerando Coleções:
-Covariância de IEnumerable;
-Convertendo Coleções;
-Conversão de Arrays;
-O Laço Foreach;
-Consolidando seu conhecimento.
-Este ensinamento está presente na pasta: A5.1 - Convariancia, A5.2 - Foreach.
+- **5º** - **Convertendo e Enumerando Coleções:**
+> - Covariância de IEnumerable;
+> - Convertendo Coleções;
+> - Conversão de Arrays;
+> - O Laço Foreach;
+> - Consolidando seu conhecimento.
