@@ -1,8 +1,0 @@
-C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\CSharpCollections\bin\Debug\CSharpCollections.exe.config
-C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\CSharpCollections\bin\Debug\CSharpCollections.exe
-C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\CSharpCollections\bin\Debug\CSharpCollections.pdb
-C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\CSharpCollections\obj\Debug\1 - ArraysLearning.csproj.AssemblyReference.cache
-C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\CSharpCollections\obj\Debug\1 - ArraysLearning.csproj.SuggestedBindingRedirects.cache
-C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\CSharpCollections\obj\Debug\1 - ArraysLearning.csproj.CoreCompileInputs.cache
-C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\CSharpCollections\obj\Debug\CSharpCollections.exe
-C:\Users\luisa.coutinho\OneDrive - Minasmaquinas SA\Attachments\PUC\Allura - Prática dos cursos\Alura_C#_ Collections parte 1\CSharpCollections\obj\Debug\CSharpCollections.pdb
