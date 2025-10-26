@@ -1,74 +1,61 @@
-# Projeto - C# Collections
-### Projeto do curso da Alura - C# Collections parte 1: Listas, arrays, listas ligadas, dicionários e conjuntos! ------ [LINK DO PROJETO](https://github.com/luisacoutinho06/csharpcollections_alura/tree/9a487b55ee5f979231d556607cecd9d4423bba25/C%23_COLLECTIONS%20PARTE%201)
-Este projeto foi realizado para poder entender melhor as coleções existentes no C# e como utilizá-las. Acompanhei o instrutor Marcelo Oliveira da Alura desenvolvendo esta solução com cada etapa do ensinamento:
+# Introdução às Coleções em C#
 
-- **1º** - **Começando com Arrays:**
->  - Declarando e populando arrays;
->  - Atribuindo valores a um array;
->  - Modificando um valor de um elemento de um array;
->  - Operações com arrays;
->  - Copiando dados de um array.
+Este projeto apresenta uma coleção de implementações práticas que exploram o funcionamento das principais **estruturas de dados e coleções do C#**, abordando desde conceitos básicos de armazenamento até consultas avançadas com LINQ.
 
-- **2º** - **Lista, a Coleção Flexível:**
->  - Introdução às listas e operações com listas;
->  - Listas de objetos;
->  - Ordenando e totalizando uma lista, lista somente leitura;
->  - Totalizando valores.
+A solução está organizada em diferentes módulos, cada um focado em um tipo de coleção ou conceito específico. O objetivo é compreender o comportamento, as características e as operações disponíveis em cada estrutura, analisando quando e por que utilizá-las.
 
-- **3º** - **O Poder dos Sets:**
->  - O poder dos sets, HashSet e elementos duplicados;
->  - Usando Set dentro do modelo, Equals e HashCode, verificando se um elemento existe no conjunto;
->  - Equals() e GetHashCode() - novamente.
+## Estruturas e Conceitos Abordados
 
-- **4º** - **Dicionários, Trabalhando com Chave e Valor:**
->  - Introdução a dicionários, declarando um dicionário;
->  - Adicionando/substituindo elementos, funcionamento de um dicionário;
->  - Dicionários e hashing.
-
-- **5º** - **Lista Ligada, Pilha e Fila:**
->  - LinkedList, ordem de uma lista ligada, incluindo elementos num `LinkedList`;
->  - Stack;
->  - Queue;
->  - Verificando elementos numa fila.
+### Arrays
+Exploração de arrays como estrutura de armazenamento indexado de tamanho fixo.  
+Inclui operações de declaração, inicialização, atribuição, modificação de elementos e cópia de dados entre arrays.
 
 
-### Projeto do curso da Alura - C# Collections parte 2: Coleções ordenadas, arrays multidimensionais e LINQ! ------ [LINK DO PROJETO](https://github.com/luisacoutinho06/csharpcollections_alura/tree/9a487b55ee5f979231d556607cecd9d4423bba25/C%23_COLLECTIONS%20PARTE%202)
-Este projeto foi realizado para poder entender melhor as coleções existentes no C# e como utilizá-las. Acompanhei o instrutor Marcelo Oliveira da Alura desenvolvendo esta solução com cada etapa do ensinamento:
+### Listas (`List<T>`)
+Estudo das listas como coleções dinâmicas que permitem crescimento e manipulação flexível.  
+Foram abordadas operações de adição, remoção, ordenação e totalização de valores, além da utilização de listas de objetos e listas somente leitura.
 
-- **1º** - **Coleções Ordenadas:**
->  - SortedList;
->  - SortedDictionary;
->  - SortedList e SortedDictionary;
->  - SortedSet;
->  - Consolidando o Conhecimento.
 
-- **2º** - **Arrays Multidimensionais:**
->  - Array Multidimensional;
->  - Jagged Arrays;
->  - Array Denteado;
->  - Jagged Arrays;
->  - Consolidando o Conhecimento.
+### Conjuntos (`HashSet<T>` e `SortedSet<T>`)
+Análise dos conjuntos e suas propriedades, com foco na **eliminação de duplicidades** e nas operações de **união, interseção e diferença**.  
+Também foi implementado um comparador personalizado (`IComparer`) para controle da ordenação e comparação de elementos.
 
-- **3º** - **Consultando com LINQ:**
->  - Consultando Collections;
->  - Consultas com LINQ;
->  - Fonte de dados para uma consulta LINQ;
->  - Filtrando uma Consulta;
->  - Ordenando Consulta LINQ;
->  - Consolidando o Conhecimento.
 
-- **4º** - **Mais Operadores LINQ:**
-> - Consultando sequências de elementos;
-> - Operadores de conjuntos LINQ;
-> - Faixas de valores de uma sequência;
-> - Faixa contínua de valores de uma sequência;
-> - Operadores de Conjunto;
-> - Mão na Massa - LINQ: Outros Operadores;
-> - Consolidando o Conhecimento.
+### Dicionários (`Dictionary<TKey, TValue>`, `SortedDictionary<TKey, TValue>`)
+Aplicação do conceito de pares chave-valor para mapeamento e acesso eficiente aos dados.  
+Inclui inserção, substituição, verificação de existência e entendimento do funcionamento interno baseado em hashing.  
+Além disso, foram estudadas coleções ordenadas como `SortedList` e `SortedDictionary`.
 
-- **5º** - **Convertendo e Enumerando Coleções:**
-> - Covariância de IEnumerable;
-> - Convertendo Coleções;
-> - Conversão de Arrays;
-> - O Laço Foreach;
-> - Consolidando seu conhecimento.
+
+### Arrays Multidimensionais e Jagged Arrays
+Exploração de estruturas de armazenamento com múltiplas dimensões.  
+Os **arrays multidimensionais** foram usados para representar tabelas e grades, enquanto os **jagged arrays** permitiram trabalhar com coleções de tamanhos variáveis, demonstrando flexibilidade na modelagem dos dados.
+
+
+### Listas Ligadas, Pilhas e Filas
+Estudo de estruturas que gerenciam a ordem dos elementos de forma dinâmica:
+- **LinkedList**: manipulação de elementos encadeados.  
+- **Stack (Pilha)**: estrutura LIFO (último a entrar, primeiro a sair).  
+- **Queue (Fila)**: estrutura FIFO (primeiro a entrar, primeiro a sair).
+
+
+### Consultas com LINQ
+Introdução às consultas integradas à linguagem para manipulação de coleções.  
+Foram aplicadas operações de **filtragem**, **ordenação**, **projeção** e **transformação de dados**, além de consultas encadeadas utilizando expressões lambda.
+
+
+### Operadores Avançados do LINQ
+Utilização de operadores adicionais para manipulação e recorte de sequências de dados, incluindo métodos para **paginação**, **filtragem condicional** e **controle de intervalos**.  
+Foram abordados operadores como `Take`, `Skip`, `TakeWhile`, `SkipWhile` e equivalentes.
+
+
+### Covariância e Conversão de Coleções
+Análise do comportamento da **covariância em coleções genéricas** e da **conversão entre diferentes tipos de coleções**, reforçando a interoperabilidade entre estruturas que compartilham tipos compatíveis.
+
+
+### Laço `foreach`
+Revisão e aplicação do `foreach` como forma simplificada e segura de percorrer coleções.  
+O foco foi compreender sua integração com a interface `IEnumerable` e como ele abstrai a complexidade da iteração manual.
+
+
+
